@@ -1,7 +1,8 @@
 import ReactDOM from 'react-dom';
+import App from './App.jsx';
 import './index.css';
 
-const app = <h1>Desarrollo Útil</h1>;
+
 const container = document.getElementById('root');
 
-ReactDOM.render(app, container);
+ReactDOM.render(<App />, container);

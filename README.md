@@ -2,7 +2,7 @@
 
 ---
 
-## 📚 Temas Cubiertos
+## Temas Cubiertos
 
 * ¿Qué es React?
 * Create React App vs Vite vs Next.js
@@ -16,7 +16,7 @@
 
 ---
 
-## ⚛️ ¿Qué es React?
+## ¿Qué es React?
 
 React es una **biblioteca de JavaScript** (o librería) que se utiliza para construir **interfaces de usuario**. A diferencia de un framework completo, React ofrece más flexibilidad y se enfoca únicamente en la vista.
 
@@ -28,7 +28,7 @@ Sus principios son:
 
 ---
 
-## 🚀 Create React App vs Vite vs Next.js
+## Create React App vs Vite vs Next.js
 
 Estas son herramientas que crean un proyecto de React listo para usar, configurando automáticamente herramientas complejas como transpiladores (Babel) y empaquetadores (Webpack).
 
@@ -51,7 +51,7 @@ Estas son herramientas que crean un proyecto de React listo para usar, configura
 
 ---
 
-## ⚡ ¿Qué hace Vite en React?
+## ¿Qué hace Vite en React?
 
 Vite es un constructor de proyectos y servidor de desarrollo. Su trabajo es tomar tu código fuente (archivos `.jsx`, `.css`, etc.) y servirlo al navegador de una manera que este entienda.
 
@@ -60,7 +60,7 @@ Vite es un constructor de proyectos y servidor de desarrollo. Su trabajo es toma
 
 ---
 
-## 🧹 ¿Qué es ESLINT y PRETTIER?
+## ¿Qué es ESLINT y PRETTIER?
 
 Son dos herramientas que ayudan a mantener la calidad y consistencia del código, especialmente cuando se trabaja en equipo.
 
@@ -71,7 +71,7 @@ Son dos herramientas que ayudan a mantener la calidad y consistencia del código
 
 ---
 
-## 📝 ¿Qué es la sintaxis JSX y TSX?
+## ¿Qué es la sintaxis JSX y TSX?
 
 * **JSX (JavaScript XML)**: Es una extensión de sintaxis (o "azúcar sintáctico") usada por React que te permite **escribir una estructura similar a HTML dentro de tu código JavaScript**.
     * No es ni HTML ni JavaScript puro; el navegador no lo entiende.
@@ -84,7 +84,7 @@ Son dos herramientas que ayudan a mantener la calidad y consistencia del código
 
 ---
 
-## 🧩 ¿Qué es un componente en React?
+## ¿Qué es un componente en React?
 
 Un componente es la pieza fundamental de React. Es una porción de la interfaz de usuario **independiente y reutilizable**.
 
@@ -96,7 +96,7 @@ Un componente es la pieza fundamental de React. Es una porción de la interfaz d
 
 ---
 
-## 🎨 Diferencia entre los estilos Modules, global y style, SCSS y SASS
+## Diferencia entre los estilos Modules, global y style, SCSS y SASS
 
 Son diferentes formas de aplicar estilos CSS a tus componentes en React:
 
@@ -124,7 +124,7 @@ Son diferentes formas de aplicar estilos CSS a tus componentes en React:
 
 ---
 
-## 🖌️ ¿Qué es el renderizado en React?
+## ¿Qué es el renderizado en React?
 
 El renderizado es el proceso que usa React para "dibujar" tu interfaz. Involucra al **Virtual DOM** (una copia ligera de la interfaz en la memoria de JavaScript).
 
@@ -142,7 +142,7 @@ El renderizado es el proceso que usa React para "dibujar" tu interfaz. Involucra
 
 ---
 
-## 🧠 ¿Qué es el estado en React?
+## ¿Qué es el estado en React?
 
 El estado (o *state*) es el concepto más importante en React; es lo que hace que las aplicaciones sean dinámicas e interactivas.
 
